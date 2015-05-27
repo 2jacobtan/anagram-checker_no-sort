@@ -1,5 +1,10 @@
 # anagram-checker_no-sort
-anagram checker without reliance on a sorting algorithm
+**Warning!** first draft; terrible readability
+
+**Description:** anagram checker without reliance on a sorting algorithm
+
+**File name:** Anagram.java
 
 To be improved:
-1. functions please lol
+
+	1. functions please lol
