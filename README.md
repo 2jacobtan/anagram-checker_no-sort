@@ -3,7 +3,7 @@
 
 **Description:** anagram checker without reliance on a sorting algorithm
 
-**File name:** Anagram.java
+**File name:** [Anagram.java](Anagram.java)
 
 To be improved:
 
