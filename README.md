@@ -1,5 +1,5 @@
 # anagram-checker_no-sort
-**Warning!** first draft; terrible readability
+first draft
 
 **Description:** anagram checker without reliance on a sorting algorithm
 
