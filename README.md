@@ -7,4 +7,4 @@
 
 To be improved:
 
-	1. functions please lol
+	1. functions please lol (modularisation)
